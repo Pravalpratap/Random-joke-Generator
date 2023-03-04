@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital@1&display=swap');
+body{
+    background-color: rgb(47, 110, 226);
+}
+.container{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 27vh 27vw;
+    background-color: white;
+    width: 45vw;
+    height: 40vh;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.joke{
+    font-family: 'Ubuntu', sans-serif;
+    width: auto;
+    padding-left: 4vh;
+    padding-left: 4vw;
+    padding-right: 2vw;
+}
+.btn{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(80, 80, 9);
+    border: none;
+    width: 8vw;
+    padding: 1vh 1vw;
+    color: aliceblue;
+    cursor: pointer;
+    
+}
